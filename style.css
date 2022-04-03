@@ -152,7 +152,7 @@ img {
 }
 .footer{
 
- margin-left: 35px;
+ margin-left: 80px;
  font-size: 12px;
  font-weight: bold;
 
@@ -173,6 +173,9 @@ img {
    }
    .btn {
      margin-bottom: 5px;
+   }
+   .footer {
+     margin-left: 40px;
    }
    textarea, label {
      margin-bottom: 5px;
